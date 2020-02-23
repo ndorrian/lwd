@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Partners"
+    url: /partners/
+  - title: "Project"
+    url: /project/
+  - title: "Impact"
+    url: /impact/
+  - title: "Gallery"
+    url: /gallery/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
