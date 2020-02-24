@@ -2,7 +2,7 @@
 title: "Partners"
 permalink: /partners/
 header:
-  image: ""
+  image: "/images/headers/partners.jpg"
 ---
 
 | NI School | French School  |
