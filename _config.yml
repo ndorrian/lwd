@@ -85,12 +85,12 @@ analytics:
 
 # Site Author
 author:
-  name             : #""
-  avatar           : #"" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #""
-  location         : #"en-UK"
-  email            : #
-  uri              : #
+  name             : # ""
+  avatar           : # "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : # ""
+  location         : # "en-UK"
+  email            : # 
+  uri              : # 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -210,12 +210,12 @@ plugins:
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-include-cache 
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-archives
   - jemoji
+  - jekyll-include-cache 
 
 
 # Archives
