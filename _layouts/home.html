@@ -1,11 +1,12 @@
----
-layout: default
- image: "/images/headers/project.jpg"
----
-
-# Living with Diversity
-
-This is the project site for the living with diversity project carried out by Strangford College and Collège Raymond Poincaré.
+---	---
+layout: archive	
+---	---
 
 
+ <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>	
+ {% for post in paginator.posts %}	
+  {% include archive-single.html %}	
+{% endfor %}	
 
+
+ {% include paginator.html %}
