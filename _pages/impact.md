@@ -2,7 +2,7 @@
 title: "Impact"
 permalink: /impact/
 header:
-  image: ""
+  image: "/images/headers/impact.jpg"
 ---
 
 # Summary
