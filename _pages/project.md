@@ -2,7 +2,7 @@
 title: "Project"
 permalink: /project/
 header:
-  image: ""
+  image: "/images/headers/project.jpg"
 ---
 
 # What is the project?
