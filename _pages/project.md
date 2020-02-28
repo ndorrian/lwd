@@ -17,6 +17,8 @@ Throughout the project we encouraged the students to explore their cultural heri
 
 In March, 20 French students arrived for a week long stay in Ganaway where they explored the theme of Living with Diversity with their Strangford counterparts. They learnt about the political conflict in NI and the impact it has had on both sides of the community and with thanks to our friends in the PSNI, everyone learnt a lot about conflict resolution and peaceful transformation and the on-going importance of Integration.
 
+![Ganaway](/images/ganaway1.jpg)
+
 The students began their stay with some activities at Ganaway, including high ropes, team building activities, archery, zip wires and many more. The students were in mixed groups and this was a great way to get to know each other. Following this the students enjoyed dinner together and then participated in some more team activities before having free time with each other.
 
 The students also visited the Ulster Folk museum where the students had fun with Northern Irish colloquial phrases before exploring the history of Ulster and having the opportunity to learn about felt making, weaving and the art of pottery in Ireland.
@@ -27,14 +29,26 @@ A very thought provoking and insightful day was spent in Belfast. The students v
 
 political violence and their ongoing conflict transformation work in their community. This is entirely fitting with the theme of 'Living with Diversity' and the concept of inclusion.
 
+![PSNI](/images/PSNI.jpg)
+
 The French students joined their Strangford College counterparts in school for a carousel of lessons. The students enjoyed a cookery lesson, making traditional Irish wheaten bread, an art workshop where they made a beautiful piece to take come and a music lesson where they learnt about Irish folklore and music and composed a short Irish jig. This was hard evidence of the mutual learning involved and the celebration of cultural heritage.
+
+![Composer](/images/composers1.jpg)
+
+![Grubs Up!](/images/cookeryR.jpg)
 
 # Paris
 
 In October 2019 the second half of the exchange took place in Paris. After a joyful reunion we enjoyed a day exploring the sights of Paris, stopping at each to allow the French students to teach us about the monuments and we also explored some of the UNCRC articles.
+
+![Paris](/images/paris2.jpg)
 
 Another wonderful day was spent at Versaille Palace and as we explored the Palace we learnt about the impact of the French Revolution on the country and the on-going political issues that are thrashed out there and brought to the Palace gates.
 
 As in Northern Ireland a day was spent in school at le Collège Raymond Poincaré. The students enjoyed a PE lesson, a science lesson and an Art workshop. It was a wonderful day and it allowed the Strangford College students to experience in an authentic way how Collège Raymond Poincaré caters for the cultural and religious needs of their students.
 
 The French students and their families hosted a party for the Irish students and brought traditional dishes from their home countries again allowing the Strangford College students to appreciate the diverse cultures represented in their partner school.
+
+![French School](/images/college2.jpg)
+
+![French School](/images/college4.jpg)
