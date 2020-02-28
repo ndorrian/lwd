@@ -33,7 +33,7 @@ political violence and their ongoing conflict transformation work in their commu
 
 The French students joined their Strangford College counterparts in school for a carousel of lessons. The students enjoyed a cookery lesson, making traditional Irish wheaten bread, an art workshop where they made a beautiful piece to take come and a music lesson where they learnt about Irish folklore and music and composed a short Irish jig. This was hard evidence of the mutual learning involved and the celebration of cultural heritage.
 
-![Composer](/images/composers1.jpg)
+![Composer](/images/composers.jpg)
 
 ![Grubs Up!](/images/cookeryR.jpg)
 
