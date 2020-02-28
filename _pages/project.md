@@ -41,11 +41,13 @@ The French students joined their Strangford College counterparts in school for a
 
 In October 2019 the second half of the exchange took place in Paris. After a joyful reunion we enjoyed a day exploring the sights of Paris, stopping at each to allow the French students to teach us about the monuments and we also explored some of the UNCRC articles.
 
-![Paris](/images/paris2.jpg)
+![Paris](/images/paris1.jpg)
 
 Another wonderful day was spent at Versaille Palace and as we explored the Palace we learnt about the impact of the French Revolution on the country and the on-going political issues that are thrashed out there and brought to the Palace gates.
 
-As in Northern Ireland a day was spent in school at le Collège Raymond Poincaré. The students enjoyed a PE lesson, a science lesson and an Art workshop. It was a wonderful day and it allowed the Strangford College students to experience in an authentic way how Collège Raymond Poincaré caters for the cultural and religious needs of their students.
+As in Northern Ireland a day was spent in school at le Collège Raymond Poincaré. The students enjoyed a PE lesson, a science lesson and an Art workshop. It was a wonderful day and it allowed the Strangford College students to experience in an authentic way how Collège Raymond Poincaré caters for the cultural and religious needs of their student
+
+![Mixed Rugby](/images/pe1.jpg)
 
 The French students and their families hosted a party for the Irish students and brought traditional dishes from their home countries again allowing the Strangford College students to appreciate the diverse cultures represented in their partner school.
 
