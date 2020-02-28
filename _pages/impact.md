@@ -11,10 +11,12 @@ The main priority of our project was to increase cultural awareness and to show 
 
 All the activities planned on both sides of the exchange had at their very heart the theme of living with diversity. Our aim was to successfully bring 2 groups of students together to explore how divided communities can leave peacefully alongside each other and to forge relationships all whilst improving language skills.
 
-![Peace_Wall](https://scontent.flhr6-1.fna.fbcdn.net/v/t1.0-9/55908467_1992978614153207_5530784108961071104_n.jpg?_nc_cat=103&_nc_sid=110474&_nc_oc=AQnEAddaannA9w4pk4w2b7ka-qV9Vn15tfgRR_XpCkULn149fgIS3JkLWX4StEzcbgU&_nc_ht=scontent.flhr6-1.fna&oh=b7e32b18fd5b91fd608f626a3a39aa58&oe=5EC08FCE)
+![Peace Wall](https://scontent.flhr6-1.fna.fbcdn.net/v/t1.0-9/55908467_1992978614153207_5530784108961071104_n.jpg?_nc_cat=103&_nc_sid=110474&_nc_oc=AQnEAddaannA9w4pk4w2b7ka-qV9Vn15tfgRR_XpCkULn149fgIS3JkLWX4StEzcbgU&_nc_ht=scontent.flhr6-1.fna&oh=b7e32b18fd5b91fd608f626a3a39aa58&oe=5EC08FCE)
 
 All of this was good practice for listening and comprehension skills in the target language. Through day trips and visiting each other's countries and historical monuments we learnt about the culture of another country and created a google classroom to exchange ideas and opinions in a bi-lingual manner on the theme of young people's rights and living with diversity.
+
 ![La Courneuve](https://scontent.flhr6-1.fna.fbcdn.net/v/t1.0-9/73003785_2338660336251698_3461078247062634496_n.jpg?_nc_cat=104&_nc_sid=110474&_nc_oc=AQknGzn8uIuzVlxJvCwurETMmRaUS64Dbhc0UCK-_v8Qcbr1H2J2eZJ6GXdwATmQluw&_nc_ht=scontent.flhr6-1.fna&oh=0af2722ddc227fec08f017a431813d48&oe=5EF5C6C5)
+
 On both sides there has been increased motivation and desire to use their language skills and to study the language further. We have seen an increase in uptake at GCSE level, as many students involved in the project chose to continue their French onto KS4 level. There has also been a wider impact on the whole school with students not directly involved in the programme. Learning about the opportunities languages can create, diversity and the importance of taking part in a project like this directly from their peers. The students involved took an assembly to promote the value of Erasmus+ exchange programmes and the impact the experience has had on them.
 
 This has been a resounding success and we are grateful that we received funding from Erasmus+ to complete this spectacular project.
